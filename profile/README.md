@@ -1,6 +1,6 @@
 # Welcome to SD-Project-2025 👋
 
-🚀 *A collaborative platform for final year Software Development students, working on innovative and impactful projects.*
+🚀 *A collaborative platform for final year Software Design (COMS3009A) @ Univeristy of the Witwatersrand, working on innovative and impactful project.*
 
 ---
 
