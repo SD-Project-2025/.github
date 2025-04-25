@@ -45,7 +45,7 @@ A **Secure, Robust Backend** using RESTful APIs to manage reservations, users, a
 | Milestone  | Status         |
 |------------|----------------|
 | Sprint 1   | ✅ Complete     |
-| Sprint 2   | 🔄 In Progress |
+| Sprint 2   | 🔄 Complete |
 | Sprint 3   | ⏳ Up Next      |
 
 ---
